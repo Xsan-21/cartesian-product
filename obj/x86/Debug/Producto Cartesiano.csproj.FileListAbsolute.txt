@@ -1,0 +1,9 @@
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\bin\Debug\Producto Cartesiano.exe
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\bin\Debug\Producto Cartesiano.pdb
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Debug\Producto_Cartesiano.Form1.resources
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Debug\Producto_Cartesiano.Properties.Resources.resources
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Debug\Producto Cartesiano.exe
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Debug\Producto Cartesiano.pdb

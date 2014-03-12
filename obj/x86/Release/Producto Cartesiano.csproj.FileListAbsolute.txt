@@ -1,0 +1,11 @@
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\bin\Release\Producto Cartesiano.exe
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\bin\Release\Producto Cartesiano.pdb
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Release\Producto_Cartesiano.Form1.resources
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Release\Producto_Cartesiano.Properties.Resources.resources
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Release\Producto Cartesiano.exe
+C:\Users\Xavier Sanchez\documents\visual studio 2010\Projects\Producto Cartesiano\Producto Cartesiano\obj\x86\Release\Producto Cartesiano.pdb
+C:\Users\Xavier Sanchez\Desktop\Producto Cartesiano\Producto Cartesiano\obj\x86\Release\Producto Cartesiano.exe
+C:\Users\Xavier Sanchez\Desktop\Producto Cartesiano\Producto Cartesiano\obj\x86\Release\Producto Cartesiano.pdb
